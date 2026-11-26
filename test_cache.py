@@ -6,6 +6,8 @@ from cache.cache_manager import (
 )
 
 
+
+
 initialize_cache()
 
 question = "What are the benefits of walking?"
