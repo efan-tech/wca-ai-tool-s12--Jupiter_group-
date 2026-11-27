@@ -101,3 +101,9 @@ With your virtual environment activated, launch the application:
 ```bash
 python main.py
 ```
+## Responsible AI
+MYMFIT AI gives general fitness and wellness guidance only. It is not
+a substitute for professional medical advice, diagnosis or treatment.
+ 
+## Acknowledgement
+Developed for the WeCan Academy Season 12 Group Project
