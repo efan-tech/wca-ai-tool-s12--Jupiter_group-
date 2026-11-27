@@ -46,3 +46,58 @@ mymfit-ai/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+
+
+## Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone YOUR_REPOSITORY_URL
+   ```
+
+2. **Enter the project directory:**
+   ```bash
+   cd YOUR_PROJECT_FOLDER
+   ```
+
+3. **Create a virtual environment:**
+   ```bash
+   python -m venv venv
+   ```
+
+4. **Activate the virtual environment:**
+   ```bash
+   source venv/bin/activate
+   ```
+   *(On Windows Command Prompt, use `venv\Scripts\activate` instead.)*
+
+5. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+---
+
+## API Configuration
+
+1. Create a `.env` file in the root of your project directory:
+   ```bash
+   touch .env
+   ```
+
+2. Add your Anthropic API key to the `.env` file, replacing the placeholder with your actual key:
+   ```env
+   ANTHROPIC_API_KEY=your_anthropic_api_key
+   ```
+
+> **Security Note:** Never commit or upload your `.env` file to GitHub. Ensure `.env` is listed in your `.gitignore` file.
+
+---
+
+## Running the Command-Line Application
+
+With your virtual environment activated, launch the application:
+
+```bash
+python main.py
+```
