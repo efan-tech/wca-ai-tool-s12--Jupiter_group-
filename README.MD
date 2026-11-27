@@ -106,4 +106,5 @@ MYMFIT AI gives general fitness and wellness guidance only. It is not
 a substitute for professional medical advice, diagnosis or treatment.
  
 ## Acknowledgement
-Developed for the WeCan Academy Season 12 Group Project
+Developed for the WeCan Academy Season 12 Group Project as a complete project
+
