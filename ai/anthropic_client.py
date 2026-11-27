@@ -31,10 +31,6 @@ if not API_KEY:
 
 client = Anthropic(api_key=API_KEY)
 
-# Recommended models (choose one):
-# - "claude-sonnet-4-5"          → best balance of speed/cost/quality
-# - "claude-opus-4-6"            → highest intelligence
-# - "claude-haiku-4-5"           → fastest & cheapest
 MODEL = "claude-sonnet-5-5"
 
 
