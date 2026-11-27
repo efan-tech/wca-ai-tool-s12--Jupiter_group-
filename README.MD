@@ -44,6 +44,5 @@ mymfit-ai/
 ├── tests/
 ├── main.py
 ├── requirements.txt
-├── .env.example
 ├── .gitignore
 └── README.md
